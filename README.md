@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+
+
+
+```javascript
+const thai = {
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, HTML, CSS, C, C++, Java],
+  tools: [React, Svelte, Redux, ReactRouter, Node, Express, MongoDB , Styled-Components, Jest, ],
+  architecture: ["microservices","API-REST"],
+  techCommunities: {
+                        Platzi: 'PlatziMaster',
+                   },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 <!--
 **Erick-SN/Erick-SN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
