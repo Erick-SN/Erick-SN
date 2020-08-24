@@ -29,7 +29,7 @@ const ERICK = {
   techCommunities: {
                         Platzi: 'PlatziMaster',
                    },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Never stop learning"
 }
 ```
 ![Erick's github stats](https://github-readme-stats.vercel.app/api?username=Erick-SN&show_icons=true&hide_border=true)
