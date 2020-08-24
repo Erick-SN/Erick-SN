@@ -21,8 +21,10 @@
 ```javascript
 const ERICK = {
   pronouns: "He" | "Him",
+  nickNames: ["Dereck", "Ewock"],
   code: [Javascript, Typescript, HTML, CSS, C, C++, Java],
-  tools: [React, Svelte, Redux, ReactRouter, Node, Express, MongoDB , Styled-Components, Jest],
+  tools: [React, Svelte, Redux, ReactRouter, Node, Express, MongoDB,
+          Styled-Components, Jest],
   architecture: ["microservices","API-REST"],
   techCommunities: {
                         Platzi: 'PlatziMaster',
@@ -30,5 +32,5 @@ const ERICK = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-![Erick github stats](https://github-readme-stats.vercel.app/api?username=Erick-SN&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
+![Erick's github stats](https://github-readme-stats.vercel.app/api?username=Erick-SN&show_icons=true&hide_border=true)
 
