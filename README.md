@@ -20,7 +20,6 @@
 
 ```javascript
 const ERICK = {
-  pronouns: "He" | "Him",
   nickNames: ["Dereck", "Ewock"],
   code: [Javascript, Typescript, HTML, CSS, C, C++, Java],
   tools: [React, Svelte, Redux, ReactRouter, Node, Express, MongoDB,
