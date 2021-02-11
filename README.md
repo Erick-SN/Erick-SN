@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"> Hi, I'm Erick!</h2>
+<h2><img src="https://image.flaticon.com/icons/png/512/92/92031.png" width="50" aling="center"> Hi, I'm Erick!</h2>
 
 <br/>
 <a href="https://www.facebook.com/profile.php?id=100050524364273">
@@ -13,10 +13,10 @@
 <br />
 
 <img align='right' src="https://image.flaticon.com/icons/svg/1803/1803671.svg" width="230">
-<p><em><strong>FrontEnd Web Developer</strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br><strong>Student at</strong> <a href="https://platzi.com/blog/que-es-platzi-master/">PlatziMaster</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+<p><em><strong>FrontEnd Developer</strong><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-512.png" width="30"></br><strong>Student at</strong> <a href="https://platzi.com/blog/que-es-platzi-master/">PlatziMaster</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/basketball-312-594135.png" width="50"> A little more about me...  
 
 ```javascript
 const ERICK = {
