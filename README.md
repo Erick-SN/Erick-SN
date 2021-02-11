@@ -16,7 +16,7 @@
 <p><em><strong>FrontEnd Developer</strong><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-512.png" width="30"></br><strong>Student at</strong> <a href="https://platzi.com/blog/que-es-platzi-master/">PlatziMaster</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/basketball-312-594135.png" width="50"> A little more about me...  
+### <img src="https://icon-library.com/images/basketball-icon-png/basketball-icon-png-1.jpg" width="50"> A little more about me...  
 
 ```javascript
 const ERICK = {
