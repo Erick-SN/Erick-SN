@@ -30,5 +30,7 @@ const ERICK = {
  challenge: "Never stop learning"
 }
 ```
-![Erick's github stats](https://github-readme-stats.vercel.app/api?username=Erick-SN&show_icons=true&hide_border=true&theme=dark)
+![Erick's github stats](https://github-readme-stats.vercel.app/api?username=Erick-SN&show_icons=true&hide_border=true&theme=dark)   
+
+
 
