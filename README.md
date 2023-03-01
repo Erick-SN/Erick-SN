@@ -13,20 +13,16 @@
 <br />
 
 <img align='right' src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-512.png" width="230">
-<p><em><strong>FrontEnd Developer</strong></br><strong>Student at</strong> <a href="https://platzi.com/blog/que-es-platzi-master/">PlatziMaster</a></em></p>
+<p><em><strong>FrontEnd Developer</strong></br>
 
 ### A little more about me...  
 
 ```javascript
 const ERICK = {
   nickNames: ["Dereck", "Ewock"],
-  code: [Javascript, Typescript, HTML, CSS, C, C++, Java],
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Svelte, Redux, ReactRouter, Node, Express, MongoDB,
           Styled-Components, Jest],
-  architecture: ["microservices","API-REST"],
-  techCommunities: {
-                        Platzi: 'PlatziMaster',
-                   },
  challenge: "Never stop learning"
 }
 ```
